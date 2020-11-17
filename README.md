@@ -2,7 +2,6 @@
 
 CV:  
 articles&code:  
-    production(demo)
 
 
 <!--
