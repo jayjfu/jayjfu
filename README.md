@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-CV:  
+CV: TODO
 articles&code:  
+i. NLP/CV/DL
+ii. Search/Rec/Ad
+iii. Tools/Shell
+iv. Demos/Production
+v. Others
 
 
 <!--
