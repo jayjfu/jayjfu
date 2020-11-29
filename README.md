@@ -8,6 +8,8 @@ iii. Tools/Shell
 iv. Demos/Production
 v. Others
 
+medium: https://medium.com/@jayjfu0, TODO
+
 
 <!--
 **jayjfu/jayjfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
