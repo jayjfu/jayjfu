@@ -1,5 +1,5 @@
 ### Hi there 👋
-see [Homepage(Blog & CV)](https://www.notion.so/Homepage-Blog-CV-1ea896947852456593cb996026feeaee)
+See more on [Homepage(Blog & CV)](https://www.notion.so/Homepage-Blog-CV-1ea896947852456593cb996026feeaee)
 
 CV: TODO
 articles&code:  
