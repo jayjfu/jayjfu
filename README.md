@@ -1,5 +1,5 @@
 [//]: # (### Hi there 👋)
-### LinkedIn page: https://www.linkedin.com/in/jayfu0/, see more on my [Homepage](https://jayfu.notion.site/Jay-Fu-1ea896947852456593cb996026feeaee)
+### LinkedIn Profile: [linkedin](https://www.linkedin.com/in/jayfu0/), My Homepage: [notion](https://jayfu.notion.site/Jay-Fu-1ea896947852456593cb996026feeaee)
 
 
 <!--
