@@ -10,3 +10,4 @@
 
 **LLMs**
 - ⭐ **[llm-training-lab](https://github.com/jayjfu/llm-training-lab)**: *every stage of LLM training*
+  - [Visual Grounding](https://github.com/jayjfu/llm-training-lab/tree/master/03-post-training/studies/grounding): GRPO with an IoU reward, GRPO variants, SFT before RL, distillation from larger and RL-trained teachers
